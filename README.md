@@ -1,0 +1,1 @@
+This repository is the collecting answer for 100 python pratices of Tohoku University Japan.
